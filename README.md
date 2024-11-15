@@ -66,7 +66,14 @@ Paper list of synthesizing data for LLM.
 
   [Paper](https://arxiv.org/abs/2408.16737)
 
-
 - Seddik M E A, Chen S W, Hayou S, et al. How bad is training on synthetic data? a statistical analysis of language model collapse[J]. arXiv preprint arXiv:2404.05090, 2024.
 
   [Paper](https://arxiv.org/abs/2404.05090)
+
+
+  ### Application
+
+  - Xiong, Z., Papageorgiou, V., Lee, K., & Papailiopoulos, D. (2024). From artificial needles to real haystacks: Improving retrieval capabilities in llms by finetuning on synthetic data. arXiv preprint arXiv:2406.19292.
+  - 
+    [Paper](https://arxiv.org/abs/2406.19292)
+
