@@ -99,6 +99,9 @@ Paper list of synthesizing data for LLM.
 - Chen H, Waheed A, Li X, et al. On the Diversity of Synthetic Data and its Impact on Training Large Language Models[J]. arXiv preprint arXiv:2410.15226, 2024.
   [Paper](https://arxiv.org/abs/2410.15226)
 
+- Du J, Zhang X, Hu J, et al. Diversity-driven synthesis: Enhancing dataset distillation through directed weight adjustment[J]. arXiv preprint arXiv:2409.17612, 2024.
+
+  [Paper](https://arxiv.org/pdf/2409.17612)
   
 
 #### Model Collapse & Cons of SynData
