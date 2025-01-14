@@ -57,7 +57,20 @@ Paper list of synthesizing data for LLM.
 - Abdin M, Aneja J, Behl H, et al. Phi-4 technical report[J]. arXiv preprint arXiv:2412.08905, 2024.
   [Paper](https://arxiv.org/abs/2412.08905)
 
+- Maini P, Seto S, Bai H, et al. Rephrasing the web: A recipe for compute and data-efficient language modeling[J]. arXiv preprint arXiv:2401.16380, 2024.
+  [Paper](https://arxiv.org/abs/2401.16380)
 
+
+#### SynData For Post-training
+
+- Huang Y, Liu X, Gong Y, et al. Key-point-driven data synthesis with its enhancement on mathematical reasoning[J]. arXiv preprint arXiv:2403.02333, 2024.
+  [Paper](https://arxiv.org/abs/2403.02333)
+
+
+#### SynData For Research
+
+- Ge T, Chan X, Wang X, et al. Scaling synthetic data creation with 1,000,000,000 personas[J]. arXiv preprint arXiv:2406.20094, 2024.
+  [Paper](https://arxiv.org/pdf/2406.20094?)
 
 
 ### Analysis Papers
