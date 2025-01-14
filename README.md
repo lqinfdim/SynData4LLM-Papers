@@ -70,6 +70,13 @@ Paper list of synthesizing data for LLM.
 
   [Paper](https://arxiv.org/abs/2404.05090)
 
+- Dohmatob E, Feng Y, Subramonian A, et al. Strong model collapse[J]. arXiv preprint arXiv:2410.04840, 2024.
+
+  [Paper](https://arxiv.org/pdf/2410.04840)
+
+- Shumailov I, Shumaylov Z, Zhao Y, et al. AI models collapse when trained on recursively generated data[J]. Nature, 2024, 631(8022): 755-759.
+
+  [Paper](https://www.nature.com/articles/s41586-024-07566-y)
 
   ### Application
 
