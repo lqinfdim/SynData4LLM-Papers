@@ -47,6 +47,19 @@ Paper list of synthesizing data for LLM.
 
   [Paper](https://arxiv.org/abs/2402.13064)
 
+
+
+#### SynData For Pre-training
+
+- Yang Z, Band N, Li S, et al. Synthetic continued pretraining[J]. arXiv preprint arXiv:2409.07431, 2024.
+  [Paper](https://arxiv.org/abs/2409.07431)
+
+- Abdin M, Aneja J, Behl H, et al. Phi-4 technical report[J]. arXiv preprint arXiv:2412.08905, 2024.
+  [Paper](https://arxiv.org/abs/2412.08905)
+
+
+
+
 ### Analysis Papers
 
 - Gan Z, Liu Y. Towards a Theoretical Understanding of Synthetic Data in LLM Post-Training: A Reverse-Bottleneck Perspective[J]. arXiv preprint arXiv:2410.01720, 2024.
@@ -66,6 +79,15 @@ Paper list of synthesizing data for LLM.
 
   [Paper](https://arxiv.org/abs/2408.16737)
 
+#### SynData Quality Analysis
+
+- Chen H, Waheed A, Li X, et al. On the Diversity of Synthetic Data and its Impact on Training Large Language Models[J]. arXiv preprint arXiv:2410.15226, 2024.
+  [Paper](https://arxiv.org/abs/2410.15226)
+
+  
+
+#### Model Collapse & Cons of SynData
+
 - Seddik M E A, Chen S W, Hayou S, et al. How bad is training on synthetic data? a statistical analysis of language model collapse[J]. arXiv preprint arXiv:2404.05090, 2024.
 
   [Paper](https://arxiv.org/abs/2404.05090)
@@ -77,6 +99,17 @@ Paper list of synthesizing data for LLM.
 - Shumailov I, Shumaylov Z, Zhao Y, et al. AI models collapse when trained on recursively generated data[J]. Nature, 2024, 631(8022): 755-759.
 
   [Paper](https://www.nature.com/articles/s41586-024-07566-y)
+
+- Seddik M E A, Chen S W, Hayou S, et al. How bad is training on synthetic data? a statistical analysis of language model collapse[J]. arXiv preprint arXiv:2404.05090, 2024.
+
+  [Paper](https://arxiv.org/pdf/2404.05090)
+
+- Zhu X, Cheng D, Li H, et al. How to Synthesize Text Data without Model Collapse?[J]. arXiv preprint arXiv:2412.14689, 2024.
+
+  [Paper](https://arxiv.org/abs/2412.14689)
+
+
+
 
   ### Application
 
