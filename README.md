@@ -60,6 +60,8 @@ Paper list of synthesizing data for LLM.
 - Maini P, Seto S, Bai H, et al. Rephrasing the web: A recipe for compute and data-efficient language modeling[J]. arXiv preprint arXiv:2401.16380, 2024.
   [Paper](https://arxiv.org/abs/2401.16380)
 
+- Longpre S, Yauney G, Reif E, et al. A pretrainer's guide to training data: Measuring the effects of data age, domain coverage, quality, & toxicity[J]. arXiv preprint arXiv:2305.13169, 2023.
+  [Paper](https://arxiv.org/pdf/2305.13169)
 
 #### SynData For Post-training
 
