@@ -87,6 +87,17 @@ Paper list of synthesizing data for LLM.
 - Ge T, Chan X, Wang X, et al. Scaling synthetic data creation with 1,000,000,000 personas[J]. arXiv preprint arXiv:2406.20094, 2024.
   [Paper](https://arxiv.org/pdf/2406.20094?)
 
+#### Application & Downstream Tasks
+
+##### LLM Agent
+
+- Sun Q, Cheng K, Ding Z, et al. OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis[J]. arXiv preprint arXiv:2412.19723, 2024.
+  [Paper](https://arxiv.org/pdf/2412.19723)
+
+#### Specific Domain
+
+
+
 
 ### Analysis Papers
 
