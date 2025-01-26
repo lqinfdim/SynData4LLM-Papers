@@ -63,6 +63,10 @@ Paper list of synthesizing data for LLM.
 - Longpre S, Yauney G, Reif E, et al. A pretrainer's guide to training data: Measuring the effects of data age, domain coverage, quality, & toxicity[J]. arXiv preprint arXiv:2305.13169, 2023.
   [Paper](https://arxiv.org/pdf/2305.13169)
 
+- Engstrom L, Feldmann A, Madry A. Dsdm: Model-aware dataset selection with datamodels[J]. arXiv preprint arXiv:2401.12926, 2024.
+
+  [Paper](https://arxiv.org/abs/2401.12926)
+
 #### SynData For Post-training
 
 - Huang Y, Liu X, Gong Y, et al. Key-point-driven data synthesis with its enhancement on mathematical reasoning[J]. arXiv preprint arXiv:2403.02333, 2024.
