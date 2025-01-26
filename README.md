@@ -69,8 +69,17 @@ Paper list of synthesizing data for LLM.
 
 #### SynData For Post-training
 
+
+##### SynData For Post-training (SFT, Math)
+
 - Huang Y, Liu X, Gong Y, et al. Key-point-driven data synthesis with its enhancement on mathematical reasoning[J]. arXiv preprint arXiv:2403.02333, 2024.
   [Paper](https://arxiv.org/abs/2403.02333)
+
+
+##### SynData For Post-training (SFT, Code)
+
+- Wang Y, Li H, Zhang X, et al. EpiCoder: Encompassing Diversity and Complexity in Code Generation[J]. arXiv preprint arXiv:2501.04694, 2025.
+  [Paper](https://arxiv.org/pdf/2501.04694)
 
 
 #### SynData For Research
