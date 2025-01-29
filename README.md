@@ -142,10 +142,6 @@ Paper list of synthesizing data for LLM.
 
   [Paper](https://www.nature.com/articles/s41586-024-07566-y)
 
-- Seddik M E A, Chen S W, Hayou S, et al. How bad is training on synthetic data? a statistical analysis of language model collapse[J]. arXiv preprint arXiv:2404.05090, 2024.
-
-  [Paper](https://arxiv.org/pdf/2404.05090)
-
 - Zhu X, Cheng D, Li H, et al. How to Synthesize Text Data without Model Collapse?[J]. arXiv preprint arXiv:2412.14689, 2024.
 
   [Paper](https://arxiv.org/abs/2412.14689)
